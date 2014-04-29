@@ -1,0 +1,26 @@
+﻿Build started 2014-04-29 23:32:19.
+     1>Project "I:\gabriel\work\school\civ_eng\gral_workspaces\visualstudio2010c++\Encyption\Encyption\Encyption.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Encyption.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         F:\programs\VisualStudio_2010_Ultimate\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Encryption.cpp
+         Encryption.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Encyption.exe.embed.manifest.res" Debug\Encyption_manifest.rc 
+       Link:
+         F:\programs\VisualStudio_2010_Ultimate\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"I:\gabriel\work\school\civ_eng\gral_workspaces\visualstudio2010c++\Encyption\Debug\Encyption.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Encyption.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"I:\gabriel\work\school\civ_eng\gral_workspaces\visualstudio2010c++\Encyption\Debug\Encyption.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"I:\gabriel\work\school\civ_eng\gral_workspaces\visualstudio2010c++\Encyption\Debug\Encyption.lib" /MACHINE:X86 Debug\Encyption.exe.embed.manifest.res
+         Debug\Encryption.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Encyption.exe.embed.manifest" /manifest Debug\Encyption.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Encyption.vcxproj -> I:\gabriel\work\school\civ_eng\gral_workspaces\visualstudio2010c++\Encyption\Debug\Encyption.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Encyption.unsuccessfulbuild".
+         Touching "Debug\Encyption.lastbuildstate".
+     1>Done Building Project "I:\gabriel\work\school\civ_eng\gral_workspaces\visualstudio2010c++\Encyption\Encyption\Encyption.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.38
